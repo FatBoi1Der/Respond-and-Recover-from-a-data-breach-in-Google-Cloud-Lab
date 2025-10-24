@@ -15,7 +15,9 @@
 <img src="https://i.imgur.com/c3XaKLK.jpeg" height="85%" width="85%" alt="Security Command Center Risk Overview"/>
 <h2>Vunlerabilities tab</h2>
 <img src="https://i.imgur.com/QifG85h.jpeg" height="85%" width="85%" alt="Risk Overview Vulnerabilities tab"/>
-<h2>From the Security Command Center menu click compliance and scroll down to PCI DSS 3.2.1</h2>
+<h2>From the Security Command Center menu click compliance and scroll down to PCI DSS 3.2.1 and click this</h2>
+<img src="https://i.imgur.com/Mj5G5qJ.jpeg" height="85%" width="85%" alt="Google Cloud Compliance tab"/>
+<img src="https://i.imgur.com/TfaIo8a.jpeg" height="85%" width="85%" alt="PCI DSS 3.2.1 Compliance detail"/>
 </p>
 <h2>Languages Used</h2>
 
