@@ -11,10 +11,11 @@
 <br />
 
 <p align="center">
-<h2>Security Command Center Ris Overview</h2>
+<h2>Security Command Center Risk Overview</h2>
 <img src="https://i.imgur.com/c3XaKLK.jpeg" height="85%" width="85%" alt="Security Command Center Risk Overview"/>
+<h2>Vunlerabilities tab</h2>
 <img src="https://i.imgur.com/QifG85h.jpeg" height="85%" width="85%" alt="Risk Overview Vulnerabilities tab"/>
-
+<h2>From the Security Command Center menu click compliance and scroll down to PCI DSS 3.2.1</h2>
 </p>
 <h2>Languages Used</h2>
 
