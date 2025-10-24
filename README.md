@@ -11,8 +11,8 @@
 <br />
 
 <p align="center">
-<img src="https://imgur.com/c3XaKLK" height="85%" width="85%" alt="Security Command Center Risk Overview"/>
-<img src="https://imgur.com/QifG85h" height="85%" width="85%" alt="Risk Overview Vulnerabilities tab"/>
+<img src="https://i.imgur.com/c3XaKLK.jpeg" height="85%" width="85%" alt="Security Command Center Risk Overview"/>
+<img src="https://i.imgur.com/QifG85h.jpeg" height="85%" width="85%" alt="Risk Overview Vulnerabilities tab"/>
 
 </p>
 <h2>Languages Used</h2>
