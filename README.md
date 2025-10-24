@@ -20,7 +20,7 @@
 <img src="https://i.imgur.com/TfaIo8a.jpeg" height="85%" width="85%" alt="PCI DSS 3.2.1 Compliance detail"/>
 <h2>Scroll down to the Control compliance status and sort by Findings</h2>
 <img src="https://i.imgur.com/Qi3dORq.jpeg" height="85%" width="85%" alt="Compliance detail sorted by Findings"/>
-<h2>Go back to the main menu and click on Findings, and under Quick Filters, scroll down and check Google Cloud storage bucket</h2>
+<h2>Go back to the main menu and click on Findings, and under Quick Filters, scroll down and check Google Cloud storage bucket. This shows all storage bucket findings, and the reason for the finding is located under finding class.</h2>
 <img src="https://i.imgur.com/yWYEDBT.jpeg" height="85%" width="85%" alt="Findings page"/>
 <img src="https://i.imgur.com/3EVoLTX.jpeg" height="85%" width="85%" alt="Quick filters then check Google Cloud storage bucket"/>
 
