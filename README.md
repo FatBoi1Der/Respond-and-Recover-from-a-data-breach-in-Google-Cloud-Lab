@@ -51,6 +51,12 @@
 <img src="https://i.imgur.com/axsmAsT.jpeg" height="85%" width="85%" alt="Configure VM instance5"/>
 <h2>On the boot disk screen, make sure you click snapshots, and then select the last snapshot from the instance you stopped earlier. This insures the new VM instance is created with the same configuration/settings as the previous instance.</h2>
 <img src="https://i.imgur.com/vUBy6TG.jpeg" height="85%" width="85%" alt="Ensure VM instance snapshot is selected"/>
+<h2>Once this is done, click networking on the left hand side, click the Network tags box and type in cc. Then scroll down and click the drop down menu under network interfaces and that brings up the edit network interface menu. Scroll down and change the External IPv4 address from Ephermal to none so the address it has already doesn't change.</h2>
+<img src="https://i.imgur.com/CBGWxSw.jpeg" height="85%" width="85%" alt="Configure network settings for VM"/>
+<img src="https://i.imgur.com/5l1mQKj.jpeg" height="85%" width="85%" alt="Configure network settings for VM2"/>
+<img src="https://i.imgur.com/iqPMJIW.jpeg" height="85%" width="85%" alt="Configure network settings for VM3"/>
+<img src="https://i.imgur.com/wdAm39n.jpeg" height="85%" width="85%" alt="Configure network settings for VM4"/>
+
 
 
 
