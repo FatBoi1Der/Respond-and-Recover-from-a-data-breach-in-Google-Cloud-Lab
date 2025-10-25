@@ -32,19 +32,29 @@
 <h2>Task 2: Fix the Compute Engine vulnerabilities</h2>
 <br />
 <br />
+<h2>Now that I've researched the breach and found the issues, it's time to start fixing them. </h2>
+
+<p align="center">
+
+<h2>Go to the main menu and scroll down to Compute Engine, then click VM instances</h2>
+<img src="https://i.imgur.com/jMDzJuF.jpeg" height="85%" width="85%" alt="Compute Engine, VM instances"/>
+<h2>Select the available instance, and click stop. This instance has the malware finding on it.</h2>
+<img src="https://i.imgur.com/5g0fClP.jpeg" height="85%" width="85%" alt="Select active VM instance and click Stop"/>
+<img src="https://i.imgur.com/8gmAic8.jpeg" height="85%" width="85%" alt="Select active VM instance and click Stop"/>
+<h2>Once the instance stops, click create instance at the top of the screen</h2>
+<img src="https://i.imgur.com/jnKZrND.jpeg" height="85%" width="85%" alt="Click Create Instance"/>
+<h2>Configure new VM instance</h2>
+<img src="https://i.imgur.com/mQduL35.jpeg" height="85%" width="85%" alt="Configure VM instance"/>
+<img src="https://i.imgur.com/cAbtEmg.jpeg" height="85%" width="85%" alt="Configure VM instance2"/>
+<img src="https://i.imgur.com/jW9WFmJ.jpeg" height="85%" width="85%" alt="Configure VM instance3"/>
+<img src="https://i.imgur.com/BFsm4nS.jpeg" height="85%" width="85%" alt="Configure VM instance4"/>
+<img src="https://i.imgur.com/axsmAsT.jpeg" height="85%" width="85%" alt="Configure VM instance5"/>
+<h2>On the boot disk screen, make sure you click snapshots, and then select the last snapshot from the instance you stopped earlier. This insures the new VM instance is created with the same configuration/settings as the previous instance.</h2>
+<img src="https://i.imgur.com/vUBy6TG.jpeg" height="85%" width="85%" alt="Ensure VM instance snapshot is selected"/>
 
 
 
-</p>
-<h2>Languages Used</h2>
 
-- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
-
-<h2>Utilities Used</h2>
-
-- <b>ipgeolocation.io:</b> IP Address to Geolocation API
-
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
