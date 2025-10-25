@@ -56,20 +56,32 @@
 <img src="https://i.imgur.com/5l1mQKj.jpeg" height="85%" width="85%" alt="Configure network settings for VM2"/>
 <img src="https://i.imgur.com/iqPMJIW.jpeg" height="85%" width="85%" alt="Configure network settings for VM3"/>
 <img src="https://i.imgur.com/wdAm39n.jpeg" height="85%" width="85%" alt="Configure network settings for VM4"/>
+<h2>Next, click security on the left hand side. Under Service accounts, make sure you select the appropriate account, and then click create at the bottom of the screen. VM should populate in about 5 minutes or less.</h2>
+<img src="https://i.imgur.com/QvFfSzG.jpeg" height="85%" width="85%" alt="Configure security settings"/>
+<img src="https://i.imgur.com/NT3YXBg.jpeg" height="85%" width="85%" alt="Configure security settings2"/>
+<img src="https://i.imgur.com/3rKtVDp.jpeg" height="85%" width="85%" alt="Configure security settings3"/>
+<h2>Next up, I make sure I turn on secure boot for the new VM instance.</h2>
+<img src="https://i.imgur.com/pD3BSfN.jpeg" height="85%" width="85%" alt="Turning on secure boot"/>
+<img src="https://i.imgur.com/QulTEj8.jpeg" height="85%" width="85%" alt="Turning on secure boot2"/>
+<img src="https://i.imgur.com/iWF6sxJ.jpeg" height="85%" width="85%" alt="Turning on secure boot3"/>
+<img src="https://i.imgur.com/BLCH4e6.jpeg" height="85%" width="85%" alt="Turning on secure boot4"/>
+<h2>Make sure to restart the new VM. Once that VM is up and running, the VM with the malware threat can be deleted.</h2>
+<img src="https://i.imgur.com/LrNeCcb.jpeg" height="85%" width="85%" alt="Restart new VM"/>
+<img src="https://i.imgur.com/6IkEJio.jpeg" height="85%" width="85%" alt="Remove old VM"/>
+<img src="https://i.imgur.com/HHycM2Q.jpeg" height="85%" width="85%" alt="Remove old VM2"/>
+<br />
+<br />
+<h2>Task 3: Fix Cloud Storage bucket permissions</h2>
+<br />
+<br />
+<h2>In this task I revoke public access to the storage bucket and switch to uniform bucket-level access control, which significantly reduces the risk of data breaches. Removing all user permissions from the storage bucket prevents unauthorized access to the data stored in the bucket.</h2>
 
 
 
 
 
 
-<p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
-
-<p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 
