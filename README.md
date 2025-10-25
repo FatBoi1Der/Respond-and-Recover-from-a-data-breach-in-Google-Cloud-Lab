@@ -74,12 +74,22 @@
 <h2>Task 3: Fix Cloud Storage bucket permissions</h2>
 <br />
 <br />
-<h2>In this task I revoke public access to the storage bucket and switch to uniform bucket-level access control, which significantly reduces the risk of data breaches. Removing all user permissions from the storage bucket prevents unauthorized access to the data stored in the bucket.</h2>
+<h3>In this task I revoke public access to the storage bucket and switch to uniform bucket-level access control, which significantly reduces the risk of data breaches. Removing all user permissions from the storage bucket prevents unauthorized access to the data stored in the bucket.</h3>
 
-
-
-
-
+<p align="center">
+<img src="https://i.imgur.com/8NCi4dk.jpeg" height="85%" width="85%" alt="Remove bucket permissions"/>
+<h3>Click the name of the bucket you wish to change the access controls and permissions for.</h3>
+<img src="https://i.imgur.com/yoAsfTQ.jpeg" height="85%" width="85%" alt="Remove bucket permissions2"/>
+<img src="https://i.imgur.com/bYeG6mH.jpeg" height="85%" width="85%" alt="Remove bucket permissions3"/>
+<h3>On the Bucket details page, click Permissions.</h3>
+<img src="https://i.imgur.com/ZudsL0v.jpeg" height="85%" width="85%" alt="Remove bucket permissions4"/>
+<h3>Click Prevent Public Access</h3>
+<img src="https://i.imgur.com/apYoIJT.jpeg" height="85%" width="85%" alt="Remove bucket permissions5"/>
+<img src="https://i.imgur.com/juZ6AnN.jpeg" height="85%" width="85%" alt="Remove bucket permissions6"/>
+<h3>Change Access Control from Fine-Grained to Uniform</h3>
+<img src="https://i.imgur.com/5KRzoVq.jpeg" height="85%" width="85%" alt="Remove bucket permissions7"/>
+<h3>Check the box on All Users under Permissions at the bottom of the page, and then click Remove Access.</h3>
+<img src="https://i.imgur.com/Ifs1Qw3.jpeg" height="85%" width="85%" alt="Remove bucket permissions8"/>
 
 
 </p>
