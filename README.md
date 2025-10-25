@@ -77,8 +77,6 @@
 <h3>In this task I revoke public access to the storage bucket and switch to uniform bucket-level access control, which significantly reduces the risk of data breaches. Removing all user permissions from the storage bucket prevents unauthorized access to the data stored in the bucket.</h3>
 
 <p align="center">
-
-
 <img src="https://i.imgur.com/8NCi4dk.jpeg" height="85%" width="85%" alt="Remove bucket permissions"/>
 <h3>Click the name of the bucket you wish to change the access controls and permissions for.</h3>
 <img src="https://i.imgur.com/yoAsfTQ.jpeg" height="85%" width="85%" alt="Remove bucket permissions2"/>
