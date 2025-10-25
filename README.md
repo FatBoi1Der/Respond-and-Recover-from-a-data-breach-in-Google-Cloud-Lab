@@ -25,7 +25,15 @@
 <img src="https://i.imgur.com/3EVoLTX.jpeg" height="85%" width="85%" alt="Quick filters then check Google Cloud storage bucket"/>
 <h2>Uncheck Google Cloud, and then check Google Compute Instance. This selection will show all findings related to compute instances/virtual machines, and in this particular lab, it shows how this data breach took place. There is a malware threat finding which made the whole system vulnerable.</h2>
 <img src="https://i.imgur.com/z86kZue.jpeg" height="85%" width="85%" alt="Quick filters then check Google Compute instance"/>
-<h1>Uncheck Google Compute Instance and check Google Compute Firewall. This selection will show all findings related to firewall errors and misconfigurations.</h1>
+<h2>Uncheck Google Compute Instance and check Google Compute Firewall. This selection will show all findings related to firewall errors and misconfigurations.</h2>
+<img src="https://i.imgur.com/x9Z2bsO.jpeg" height="85%" width="85%" alt="Quick filters then check Google Compute Firewall"/>
+<br />
+<br />
+<h2>Task 2: Fix the Compute Engine vulnerabilities</h2>
+<br />
+<br />
+
+
 
 </p>
 <h2>Languages Used</h2>
