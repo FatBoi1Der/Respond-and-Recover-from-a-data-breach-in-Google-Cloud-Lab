@@ -95,6 +95,19 @@
 <h2>Task 4: Limit Cloud Firewall Port Access</h2>
 <br />
 <br />
+<h3>Go to the main menu and scroll down to VPC Network, and then Firewall. Once on the Firewall page, click Create Firewall Rule. Configure the firewall to restrict SSH which is Port 22, on the source network. Also make sure the logging feature is turned on, so the new firewall rule will keep accurate logs moving forward.</h3>
+<img src="https://i.imgur.com/wb3uA8r.jpeg" height="85%" width="85%" alt="Firewall fixes"/>
+<img src="https://i.imgur.com/SlPOydq.jpeg" height="85%" width="85%" alt="Firewall fixes2"/>
+<img src="https://i.imgur.com/NbK70AM.jpeg" height="85%" width="85%" alt="Firewall fixes3"/>
+<img src="https://i.imgur.com/VhSkj8E.jpeg" height="85%" width="85%" alt="Firewall fixes4"/>
+<h3>Once the new firewall rule is created, the misconfigured rules need to be removed. Especially the SSH rule, since we are limiting that port with the new rule.</h3>
+<img src="https://i.imgur.com/MrndJ47.jpeg" height="85%" width="85%" alt="Firewall fixes5"/>
+<br />
+<h2>Task 5: Verify Compliance</h2>
+<br />
+<br />
+<h3>To finish this task, go to Security Command Center and then Compliance and scroll down to PCI DSS 3.2.1. When you click on this compliance control, it shows the new compliance level rises.</h3>
+<img src="https://i.imgur.com/NmP1P98.jpeg" height="85%" width="85%" alt="Firewall fixes6"/>
 
 </p>
 
